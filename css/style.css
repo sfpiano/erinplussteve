@@ -14,9 +14,13 @@ body {
   background: #781F33 !important;
   margin-bottom: 60px;
   font-family: 'Lato', sans-serif;
+  font-size: 15px;
 }
 p {
   color: #FDF2D4;
+}
+.accom-hi {
+  background: #222B49;
 }
 .col-centered {
   float: none;
@@ -89,7 +93,6 @@ h4 {
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 5px;
-  pointer-events: none;
 }
 .img-centered {
   display: block;
@@ -136,7 +139,6 @@ h4 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
-  pointer-events: none;
 }
 .footer {
   position: absolute;
